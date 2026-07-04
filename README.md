@@ -1,1 +1,2 @@
-Social Media App for Decentralized and Free World
+Blockchain Based Social Media App for University students, ensuring security and privacy
+People can submit posts, vote surveys and give likes anonymously. 
